@@ -30,9 +30,10 @@ ul {
 
 a:link {
   text-decoration: none;
+  color: rgb(21,21,21);
 }
 a:visited {
-  color: rgb(21,21,21);
+  color: rgb(115, 13, 74);
 }
 a:hover {
   color: rgb(247, 156, 216);
